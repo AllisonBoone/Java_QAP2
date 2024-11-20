@@ -1,5 +1,11 @@
 package Problem3;
 
-public class Circle {
+// Created Circle class.
+public class Circle extends Ellipse{
     
+    // Created the constructor.
+    public Circle(double radius) {
+        super(radius, radius);
+        super.name = "Circle";
+    }
 }
