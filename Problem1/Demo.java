@@ -1,6 +1,6 @@
 package Problem1;
-// Created Demo class.
 
+// Created Demo class.
 public class Demo {
     public static void main(String[] args) {
         Person john = new Person("John Smith", 32, "M");
