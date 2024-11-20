@@ -24,6 +24,6 @@ public class Person {
     // Created toString method
     @Override
     public String toString() {
-        return myName + ", age: " + myAge + ", gender: " + myGender;
+        return myName + ", Age: " + myAge + ", Gender: " + myGender;
     }
 }

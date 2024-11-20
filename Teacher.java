@@ -20,7 +20,7 @@ public class Teacher extends Person{
     // Created toString method.
     @Override
     public String toString() {
-        return super.toString() + ", Teaches: " + subject + ", salary: " + salary;
+        return super.toString() + ", Teaches: " + subject + ", Salary: " + salary;
     }
     
 }
