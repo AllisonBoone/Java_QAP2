@@ -1,4 +1,6 @@
+package Problem1;
 // Created Student class.
+
 public class Student extends Person {
     protected String myIdNum;
     protected double myGPA;

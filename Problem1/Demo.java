@@ -1,9 +1,6 @@
 package Problem1;
 // Created Demo class.
 
-import Student;
-import Teacher;
-
 public class Demo {
     public static void main(String[] args) {
         Person john = new Person("John Smith", 32, "M");

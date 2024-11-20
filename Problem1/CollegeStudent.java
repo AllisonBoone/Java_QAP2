@@ -1,4 +1,6 @@
+package Problem1;
 // Created CollegeStudent class.
+
 public class CollegeStudent extends Student{
     private int year;
     private String major;
